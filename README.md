@@ -4,11 +4,11 @@
  + The cheat can get you VAC banned so only use it at your own risk (better on non prime accounts).
 
 # PREVIEW
-![Screenshot 2024-04-14 175107](https://github.com/T1GxR/AxionCS2-RAGE-CHEAT/assets/106729571/df318ac7-1723-43c0-bc00-d5900812df52)
-![Screenshot 2024-04-14 175057](https://github.com/T1GxR/AxionCS2-RAGE-CHEAT/assets/106729571/2496ee46-667e-47b6-b1c7-8c97c18f88bf)
-![Screenshot 2024-04-14 175032](https://github.com/T1GxR/AxionCS2-RAGE-CHEAT/assets/106729571/719246a9-4812-4134-a269-efadf648d78c)
-![Screenshot 2024-04-14 175018](https://github.com/T1GxR/AxionCS2-RAGE-CHEAT/assets/106729571/3f80c0a0-96f4-432f-b55f-e2232297b323)
-![Screenshot 2024-04-14 175010](https://github.com/T1GxR/AxionCS2-RAGE-CHEAT/assets/106729571/7535baf2-577a-4ae5-8bd3-39cf2a53a6d6)
+![Screenshot 2024-04-14 175032](https://raw.githubusercontent.com/Tap1337/CS2-Rage-Cheat/main/assets/322282436-719246a9-4812-4134-a269-efadf648d78c.png)
+![Screenshot 2024-04-14 175018](https://raw.githubusercontent.com/Tap1337/CS2-Rage-Cheat/main/assets/322282434-3f80c0a0-96f4-432f-b55f-e2232297b323.png)
+![Screenshot 2024-04-14 175107](https://raw.githubusercontent.com/Tap1337/CS2-Rage-Cheat/main/assets/322282441-df318ac7-1723-43c0-bc00-d5900812df52.png)
+![Screenshot 2024-04-14 175057](https://raw.githubusercontent.com/Tap1337/CS2-Rage-Cheat/main/assets/322282439-2496ee46-667e-47b6-b1c7-8c97c18f88bf.png)
+![Screenshot 2024-04-14 175010](https://raw.githubusercontent.com/Tap1337/CS2-Rage-Cheat/main/assets/322282430-7535baf2-577a-4ae5-8bd3-39cf2a53a6d6.png)
 
 # Features:
 <details>
